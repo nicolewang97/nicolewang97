@@ -2,8 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/90565190/142501656-a2faecc2-f2e6-4583-9468-efa7892a8b8b.JPG" width="250" height="325">
 
-- 🚩 I graduated from Kelley School of Business of **Indiana University Bloomington**, Go Hoosiers!
-- 🔭 I’m currently studying in Graduate School of Art and Sciences in **Columbia university**, majoring in Quantitative Methods in Social Sciences!
+- 🚩 I graduated from **Kelley School of Business** of **Indiana University Bloomington**, Go Hoosiers!
+- 🔭 I’m currently studying in **Graduate School of Art and Sciences** in **Columbia university**, majoring in **Quantitative Methods in Social Sciences**!
 - 👩🏻‍💻 I'm an analyst and developer with **business** & **finance** background.
 - 🌱 I'm proficient in **Python** and **R**, and currently learning **SQL**
 - 💬 Pronouns: **She/Her**
